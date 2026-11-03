@@ -26,5 +26,6 @@
     "PhenoAge",
     "retest reliability",
     "mortality"
-  ]
+  ],
+  "license": "mit"
 }
