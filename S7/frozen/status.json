@@ -1,0 +1,135 @@
+{
+  "version": "1.0",
+  "sha256": "5b1c6e46db49ed188efc95ff319694c4332ab4e9869441798c3b14b4f1318fb6",
+  "per_gate": {
+    "A1": "22_PASS_2_NOT_RUN",
+    "A2": "20_PASS_2_BELOW_THRESHOLD_2_NOT_RUN",
+    "A3": "PASS",
+    "B": "20_RELIABILITY_10_MORTALITY"
+  },
+  "per_index_status": {
+    "NHANES_III:PhenoAgeAccel": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:GLR": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:PLR": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:SII_g": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:SIRI_g": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:TyG": {
+      "status": "NOT_RUN",
+      "gate": "NOT_RUN_A2",
+      "reason": "Below frozen paired-N threshold"
+    },
+    "NHANES_III:Granulocytes": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:Lymphocytes": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:Mononuclear": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:Platelets": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:TG": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_III:Fasting_glucose": {
+      "status": "NOT_RUN",
+      "gate": "NOT_RUN_A2",
+      "reason": "Below frozen paired-N threshold"
+    },
+    "NHANES_2001_2002:PhenoAgeAccel": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:NLR": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:PLR": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:SII": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:SIRI": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:TyG": {
+      "status": "NOT_RUN",
+      "gate": "NOT_RUN_A1",
+      "reason": "Second-visit fasting duration unavailable"
+    },
+    "NHANES_2001_2002:Neutrophils": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:Lymphocytes": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:Monocytes": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:Platelets": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:TG": {
+      "status": "COMPUTED",
+      "gate": "PASS",
+      "reason": ""
+    },
+    "NHANES_2001_2002:Fasting_glucose": {
+      "status": "NOT_RUN",
+      "gate": "NOT_RUN_A1",
+      "reason": "Second-visit fasting duration unavailable"
+    }
+  },
+  "post_hoc": true,
+  "terminal": true,
+  "verdict": "COMPLETE_WITH_NOT_RUN_ITEMS"
+}

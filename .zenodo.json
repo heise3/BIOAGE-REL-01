@@ -1,7 +1,7 @@
 {
   "title": "BIOAGE-REL-01: analysis code for short-term retest variability of blood-chemistry PhenoAge",
   "upload_type": "software",
-  "description": "Frozen analysis and figure-generation code for repeat blood draws in NHANES III and NHANES 2001–2002. Release accompanying manuscript v0.3.2.",
+  "description": "Analysis code and selected aggregate results for repeat blood draws in NHANES III and NHANES 2001–2002. Version 0.3.3 adds the frozen post hoc S7 workflow, gate records and source tables for Supplementary Table S19.",
   "creators": [
     {
       "name": "Liang, Peng",
