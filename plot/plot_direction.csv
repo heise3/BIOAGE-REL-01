@@ -1,0 +1,49 @@
+cohort,score,stratum,threshold_years,direction,n,count,proportion,ci_lower,ci_upper,bootstrap_replicates,status,reason
+NHANES_III,log1p,all,1,decrease,1801,569,0.315935591338145,0.293725707940033,0.337590227651305,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,log1p,all,2,decrease,1801,357,0.198223209328151,0.179344808439756,0.217101610216546,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,log1p,all,3,decrease,1801,218,0.121043864519711,0.106052193225986,0.13659078289839,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,ln,all,1,decrease,1801,581,0.322598556357579,0.300930038867296,0.344253192670739,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,ln,all,2,decrease,1801,378,0.20988339811216,0.190435868961688,0.228761799000555,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,ln,all,3,decrease,1801,236,0.131038312048862,0.116046640755136,0.146599111604664,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,log1p,both_fasting_ge8h,1,decrease,685,195,0.284671532846715,0.24963503649635,0.318248175182482,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,log1p,both_fasting_ge8h,2,decrease,685,119,0.173722627737226,0.144525547445255,0.201459854014599,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,log1p,both_fasting_ge8h,3,decrease,685,70,0.102189781021898,0.0802919708029197,0.125547445255474,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,ln,both_fasting_ge8h,1,decrease,685,197,0.287591240875912,0.252554744525547,0.31970802919708,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,ln,both_fasting_ge8h,2,decrease,685,130,0.18978102189781,0.160583941605839,0.217554744525547,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_III,ln,both_fasting_ge8h,3,decrease,685,75,0.109489051094891,0.0861313868613139,0.132846715328467,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_2001_2002,log1p,all,1,decrease,407,111,0.272727272727273,0.230958230958231,0.316953316953317,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_2001_2002,log1p,all,2,decrease,407,59,0.144963144963145,0.113022113022113,0.181818181818182,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_2001_2002,log1p,all,3,decrease,407,31,0.0761670761670762,0.0515970515970516,0.103194103194103,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_2001_2002,ln,all,1,decrease,407,117,0.287469287469287,0.243243243243243,0.329238329238329,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_2001_2002,ln,all,2,decrease,407,68,0.167076167076167,0.132678132678133,0.203931203931204,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_2001_2002,ln,all,3,decrease,407,38,0.0933660933660934,0.0663390663390663,0.122850122850123,2000,COMPUTED,Explicitly authorized writing-stage descriptive count on frozen difference vectors; not present in earlier sealed CSVs.
+NHANES_2001_2002,log1p,both_fasting_ge8h,1,decrease,,,,,,0,NOT_RUN,No publicly bindable second-exam fasting duration; same limitation as frozen S6d.
+NHANES_2001_2002,log1p,both_fasting_ge8h,2,decrease,,,,,,0,NOT_RUN,No publicly bindable second-exam fasting duration; same limitation as frozen S6d.
+NHANES_2001_2002,log1p,both_fasting_ge8h,3,decrease,,,,,,0,NOT_RUN,No publicly bindable second-exam fasting duration; same limitation as frozen S6d.
+NHANES_2001_2002,ln,both_fasting_ge8h,1,decrease,,,,,,0,NOT_RUN,No publicly bindable second-exam fasting duration; same limitation as frozen S6d.
+NHANES_2001_2002,ln,both_fasting_ge8h,2,decrease,,,,,,0,NOT_RUN,No publicly bindable second-exam fasting duration; same limitation as frozen S6d.
+NHANES_2001_2002,ln,both_fasting_ge8h,3,decrease,,,,,,0,NOT_RUN,No publicly bindable second-exam fasting duration; same limitation as frozen S6d.
+NHANES_III,log1p,all,1,increase,1801,639,0.354802887284842,0.332037756801777,0.376457523598001,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,log1p,all,2,increase,1801,400,0.222098833981122,0.202109938922821,0.240977234869517,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,log1p,all,3,increase,1801,255,0.141588006662965,0.124930594114381,0.157690172126596,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,ln,all,1,increase,1801,638,0.354247640199889,0.332037756801777,0.376471404775125,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,ln,all,2,increase,1801,413,0.229317046085508,0.208772903942254,0.248195446973903,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,ln,all,3,increase,1801,258,0.143253747917823,0.126596335369239,0.158814547473626,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,log1p,both_fasting_ge8h,1,increase,685,251,0.366423357664234,0.331386861313869,0.401459854014599,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,log1p,both_fasting_ge8h,2,increase,685,167,0.243795620437956,0.211678832116788,0.274452554744526,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,log1p,both_fasting_ge8h,3,increase,685,90,0.131386861313869,0.108029197080292,0.156204379562044,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,ln,both_fasting_ge8h,1,increase,685,251,0.366423357664234,0.331386861313869,0.401459854014599,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,ln,both_fasting_ge8h,2,increase,685,170,0.248175182481752,0.216058394160584,0.278832116788321,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_III,ln,both_fasting_ge8h,3,increase,685,95,0.138686131386861,0.113868613138686,0.163503649635036,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_2001_2002,log1p,all,1,increase,407,164,0.402948402948403,0.356265356265356,0.44963144963145,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_2001_2002,log1p,all,2,increase,407,95,0.233415233415233,0.191646191646192,0.272727272727273,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_2001_2002,log1p,all,3,increase,407,58,0.142506142506143,0.108108108108108,0.176904176904177,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_2001_2002,ln,all,1,increase,407,160,0.393120393120393,0.346437346437346,0.43980343980344,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_2001_2002,ln,all,2,increase,407,101,0.248157248157248,0.206388206388206,0.28992628992629,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_2001_2002,ln,all,3,increase,407,60,0.147420147420147,0.113022113022113,0.181818181818182,2000,COMPUTED,Authorized descriptive count on existing difference vectors
+NHANES_2001_2002,log1p,both_fasting_ge8h,1,increase,,,,,,0,NOT_RUN,No second-draw fasting-duration variable
+NHANES_2001_2002,log1p,both_fasting_ge8h,2,increase,,,,,,0,NOT_RUN,No second-draw fasting-duration variable
+NHANES_2001_2002,log1p,both_fasting_ge8h,3,increase,,,,,,0,NOT_RUN,No second-draw fasting-duration variable
+NHANES_2001_2002,ln,both_fasting_ge8h,1,increase,,,,,,0,NOT_RUN,No second-draw fasting-duration variable
+NHANES_2001_2002,ln,both_fasting_ge8h,2,increase,,,,,,0,NOT_RUN,No second-draw fasting-duration variable
+NHANES_2001_2002,ln,both_fasting_ge8h,3,increase,,,,,,0,NOT_RUN,No second-draw fasting-duration variable

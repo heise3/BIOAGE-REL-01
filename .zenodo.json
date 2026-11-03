@@ -1,0 +1,30 @@
+{
+  "title": "BIOAGE-REL-01: analysis code for short-term retest variability of blood-chemistry PhenoAge",
+  "upload_type": "software",
+  "description": "Frozen analysis and figure-generation code for repeat blood draws in NHANES III and NHANES 2001–2002. Release accompanying manuscript v0.3.2.",
+  "creators": [
+    {
+      "name": "Liang, Peng",
+      "orcid": "0009-0007-7583-8595"
+    },
+    {
+      "name": "Wu, Jie"
+    },
+    {
+      "name": "Li, BaoLong"
+    },
+    {
+      "name": "Wu, XiangYan"
+    },
+    {
+      "name": "Zhu, Xiaona",
+      "orcid": "0009-0006-0746-6569"
+    }
+  ],
+  "keywords": [
+    "NHANES",
+    "PhenoAge",
+    "retest reliability",
+    "mortality"
+  ]
+}

@@ -1,0 +1,503 @@
+scenario,delta_years,n_unrounded,n_ceiling,SD_diff_years,alpha,power,z_alpha_2,z_power,source_file,source_data_row_1based,operation
+All participants,0.5,824.9692917145326,825,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.51,792.9347286760213,793,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.52,762.7304842035248,763,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.53,734.2197327470029,735,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.54,707.278199343735,708,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.55,681.7928030698615,682,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.56,657.660468522427,658,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.57,634.7870819594742,635,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.58,613.0865723205504,614,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.59,592.480100340802,593,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.6,572.8953414684254,573,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.61,554.2658503860068,555,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.62,536.5304966925939,537,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.63,519.6329627831523,520,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.64,503.52129621248326,504,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.65,488.1475098902559,489,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.66,473.46722435407054,474,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.67,459.4393471344021,460,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.68,446.0257848802619,447,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.69,433.19118447517997,434,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.7,420.9026998543534,421,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.71,409.1297816477547,410,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.72,397.843987130851,398,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.73,387.0188082729089,388,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.74,376.62951593979756,377,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.75,366.65301853979224,367,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.76,357.0677336022042,358,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.77,347.8534709540111,348,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.78,338.9913263126777,339,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.79,330.46358424712884,331,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.8,322.25362957598924,323,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.81,314.3458663749933,315,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.82,306.72564385579,307,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.83,299.3791884578795,300,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.84,292.2935415655232,293,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.85,285.4565023233677,286,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.86,278.85657507927687,279,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.87,272.4829210313557,273,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.88,266.3253136991647,267,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.89,260.37409787733003,261,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.9,254.62015176374462,255,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.91,249.05485198482444,250,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.92,243.67004126728867,244,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.93,238.45799853004175,239,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.94,233.41141119130054,234,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.95,228.5233495054107,229,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.96,223.78724276110367,224,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.97,219.19685718847182,220,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.98,214.74627543589457,215,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,0.99,210.42987749069803,211,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.0,206.24232292863314,207,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.01,202.1785343874455,203,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.02,198.23368216900533,199,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.03,194.40316988277232,195,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.04,190.6826210508812,191,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.05,187.0678666019348,188,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.06,183.55493318675073,184,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.07,180.14003225489836,181,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.08,176.81954983593374,177,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.09,173.59003697385162,174,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.1,170.44820076746538,171,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.11,167.39089597324335,168,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.12,164.41511713060675,165,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.13,161.51799117286646,162,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.14,158.69677048986856,159,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.15,155.94882641106477,156,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.16,153.2716430801376,154,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.17,150.66281169452347,151,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.18,148.1200250852005,149,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.19,145.6410726139631,146,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.2,143.22383536710635,144,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.21,140.86628162600448,141,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.22,138.5664625965017,139,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.23,136.32250838035108,137,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.24,134.13262417314849,135,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.25,131.99508667432522,132,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.26,129.90824069578807,130,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.27,127.87049595674446,128,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.28,125.88032405312082,126,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.29,123.9362555907897,124,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.3,122.03687747256397,123,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.31,120.18083032960382,121,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.32,118.36680608851763,119,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.33,116.59354566602585,117,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.34,114.85983678360053,115,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.35,113.16451189499759,114,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.36,111.50644622006547,112,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.37,109.8845558786473,110,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.38,108.29779611879499,109,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.39,106.74515963388706,107,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.4,105.22567496358835,106,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.41,103.73840497391136,104,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.42,102.28244541193868,103,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.43,100.85692353104463,101,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.44,99.46099678271275,100,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.45,98.09385157128806,99,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.46,96.75470206822723,97,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.47,95.44278908261981,96,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.48,94.15737898494939,95,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.49,92.89776268124551,93,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.5,91.66325463494806,92,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.51,90.4531919339648,91,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.52,89.26693340055105,90,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.53,88.10385874178014,89,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.54,86.96336773850277,87,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.55,85.84487947081503,86,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.56,84.74783157816942,85,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.57,83.6716795523685,84,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.58,82.61589606178221,83,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.59,81.57997030522255,82,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.6,80.56340739399731,81,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.61,79.56572776074732,80,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.62,78.58646659374833,79,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.63,77.62517329543195,78,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.64,76.6814109639475,77,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.65,75.7547558966513,76,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.66,74.84479711446987,75,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.67,73.95113590613975,74,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.68,73.0733853913808,74,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.69,72.21117010210888,73,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.7,71.36412558084193,72,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.71,70.53189799549713,71,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.72,69.71414376981922,70,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.73,68.91052922871901,69,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.74,68.12073025783893,69,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.75,67.34443197669654,68,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.76,66.58132842479118,67,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.77,65.83112226008909,66,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.78,65.09352446933251,66,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.79,64.3682540896455,65,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.8,63.655037940936154,64,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.81,62.95361036861913,63,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.82,62.26371299620611,63,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.83,61.58509448733408,62,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.84,60.91751031682217,61,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.85,60.2607225503676,61,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.86,59.61449963251044,60,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.87,58.978616182513974,59,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.88,58.352852797825136,59,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.89,57.7369958647947,58,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.9,57.13083737635267,58,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.91,56.534174756348,57,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.92,55.94681069027592,56,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.93,55.36855296212869,56,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.94,54.799214297117956,55,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.95,54.23861221002844,55,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.96,53.686568858973644,54,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.97,53.142910904334855,54,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.98,52.60746937267451,53,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,1.99,52.080079525424395,53,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.0,51.560580732158286,52,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.01,51.048816348266925,52,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.02,50.544633596861374,51,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.03,50.047883454738816,51,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.04,49.55842054225133,50,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.05,49.07610301692639,50,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.06,48.60079247069308,49,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.07,48.132353830575546,49,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.08,47.6706552627203,48,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.09,47.215568079630316,48,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.1,46.7669666504837,47,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.11,46.324728314420874,47,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.12,45.88873329668768,46,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.13,45.45886462752831,46,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.14,45.03500806372459,46,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.15,44.6170520126843,45,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.16,44.204887458983436,45,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.17,43.79840789327298,44,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.18,43.397509243462906,44,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.19,43.00208980810098,44,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.2,42.612050191866345,43,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.21,42.22729324310173,43,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.22,41.84772399331084,42,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.23,41.47324959855077,42,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.24,41.103779282651686,42,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.25,40.73922428219914,41,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.26,40.379497793216615,41,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.27,40.02451491948867,41,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.28,39.67419262246714,40,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.29,39.32844967270516,40,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.3,38.98720660276619,39,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.31,38.65038566155678,39,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.32,38.3179107700344,39,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.33,37.98970747824295,38,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.34,37.66570292363087,38,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.35,37.345825790608075,38,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.36,37.030006271300124,38,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.37,36.71817602745877,37,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.38,36.410268153490776,37,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.39,36.10621714056706,37,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.4,35.80595884177659,36,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.41,35.50943043829017,36,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.42,35.21657040650112,36,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.43,34.92731848611037,35,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.44,34.64161564912543,35,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.45,34.35940406974312,35,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.46,34.08062709508777,35,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.47,33.80522921677672,34,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.48,33.53315604328712,34,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.49,33.26435427309771,34,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.5,32.998771668581306,33,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.51,32.73635703062383,33,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.52,32.47706017394702,33,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.53,32.22083190311256,33,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.54,31.967623989186116,32,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.55,31.717389147040855,32,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.56,31.470081013280204,32,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.57,31.225654124760887,32,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.58,30.984063897697425,31,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.59,30.745266607330418,31,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.6,30.509219368140993,31,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.61,30.275880114595083,31,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.62,30.045207582400955,31,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.63,29.817161290264885,30,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.64,29.59170152212941,30,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.65,29.36878930988012,30,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.66,29.14838641650646,30,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.67,28.93045531970334,29,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.68,28.714959195900132,29,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.69,28.50186190470463,29,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.7,28.291127973749397,29,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.71,28.082722583929023,29,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.72,27.876611555016368,28,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.73,27.672761331647166,28,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.74,27.471138969661826,28,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.75,27.271712122794465,28,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.76,27.074449029698748,28,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.77,26.87931850130109,27,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.78,26.686289908471764,27,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.79,26.495333170004642,27,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.8,26.306418740897087,27,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.81,26.119517600921103,27,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.82,25.93460124347784,26,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.83,25.75164166472713,26,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.84,25.57061135298467,26,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.85,25.391483278378963,26,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.86,25.214230882761157,26,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.87,25.0388280698604,26,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.88,24.86524919567819,25,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.89,24.69346905911485,25,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.9,24.523462892822014,25,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.91,24.355206354274642,25,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.92,24.188675517056808,25,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.93,24.023846862355196,25,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.94,23.860697270654953,24,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.95,23.699204013632073,24,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.96,23.539344746237347,24,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.97,23.381097498966444,24,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.98,23.224440670311377,24,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,2.99,23.069353019388274,24,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+All participants,3.0,22.915813658737015,23,3.62673535985858,0.05,0.8,1.96,0.84,S4_sample_size.csv,1,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.5,590.2013246555439,591,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.51,567.2830879042136,568,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.52,545.6743016415901,546,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.53,525.2770778351227,526,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.54,506.00250742073376,507,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.55,487.7696897979701,488,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.56,470.5048825379016,471,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.57,454.1407545825977,455,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.58,438.6157287868192,439,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.59,423.8734017922608,424,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.6,409.8620310107944,410,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.61,396.53407998894374,397,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.62,383.8458146823256,384,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.63,371.75694422747785,372,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.64,360.23030069308095,361,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.65,349.23155305061766,350,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.66,338.72895124859036,339,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.67,328.6930968230919,329,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.68,319.09673694612013,320,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.69,309.9145792142113,310,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.7,301.1231248242571,302,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.71,292.7005180795199,293,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.72,284.62641042416277,285,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.73,276.8818374251942,277,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.74,269.4491073116983,270,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.75,262.31169984690837,263,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.76,255.45417445271116,256,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.77,248.86208663161744,249,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.78,242.5219118407067,243,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.79,236.42097606775508,237,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.8,230.5473924435718,231,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.81,224.89000329810386,225,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.82,219.43832713248958,220,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.83,214.18251003612423,215,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.84,209.11328112795633,210,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.85,204.22191164551694,205,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.86,199.5001773443564,200,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.87,194.94032390525297,195,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.88,190.53503507733208,191,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.89,186.27740331256908,187,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.9,182.16090267146416,183,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.91,178.17936380133554,179,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.92,174.32695080799382,175,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.93,170.59813985881138,171,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.94,166.98769937062696,167,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.95,163.49067164973516,164,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.96,160.10235586359155,161,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.97,156.8182922349729,157,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.98,153.63424735931486,154,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,0.99,150.54620055492907,151,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.0,147.55033116388597,148,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.01,144.6430067286403,145,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.02,141.8207719760534,142,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.03,139.08033854640962,140,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.04,136.41857541039752,137,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.05,133.83249992189204,134,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.06,131.31926945878067,132,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.07,128.8761736080758,129,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.08,126.50062685518344,127,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.09,124.19016174049824,125,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.1,121.94242244949253,122,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.11,119.75515880519922,120,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.12,117.6262206344754,118,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.13,115.55355248170257,116,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.14,113.53518864564943,114,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.15,111.56924851711607,112,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.16,109.6539321967048,110,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.17,107.78751637364745,108,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.18,105.9683504480652,106,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.19,104.19485288036579,105,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.2,102.4655077526986,103,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.21,100.77886152850623,101,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.22,99.13351999723594,100,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.23,97.52814539221758,98,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.24,95.9614536705814,96,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.25,94.43221194488702,95,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.26,92.93923605686946,93,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.27,91.48138828438587,92,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.28,90.05757517327024,91,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.29,88.6667454863806,89,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.3,87.30788826265442,88,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.31,85.98003097948019,86,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.32,84.68223781214759,85,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.33,83.41360798455874,84,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.34,82.17327420577297,83,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.35,80.9604011873174,81,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.36,79.77418423653003,80,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.37,78.61384792151205,79,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.38,77.47864480355283,78,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.39,76.36785423315874,77,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.4,75.28078120606428,76,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.41,74.2167552758342,75,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.42,73.17512951987997,74,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.43,72.15527955591276,73,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.44,71.15660260604069,72,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.45,70.17851660589106,71,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.46,69.22045935629855,70,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.47,68.28188771525105,69,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.48,67.36227682792457,68,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.49,66.46111939276878,67,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.5,65.57792496172709,66,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.51,64.7122192727889,65,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.52,63.86354361317779,64,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.53,63.031454211579295,64,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.54,62.21552165790436,63,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.55,61.415330349172095,62,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.56,60.63047796017668,61,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.57,59.8605749376794,60,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.58,59.10524401693877,60,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.59,58.36411975945808,59,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.6,57.63684811089295,58,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.61,56.923085978120426,57,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.62,56.222500824525966,57,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.63,55.53477028261733,56,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.64,54.859581783122394,55,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.65,54.19663219977447,55,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.66,53.54562750903106,54,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.67,52.906282464013046,53,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.68,52.27832028198908,53,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.69,51.66147234476593,52,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.7,51.055477911379235,52,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.71,50.460083842510855,51,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.72,49.8750443360891,50,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.73,49.30012067355607,50,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.74,48.73508097631324,49,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.75,48.179699971881135,49,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.76,47.63375876933302,48,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.77,47.097044643584525,48,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.78,46.56935082814227,47,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.79,46.050476315934574,47,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.8,45.54022566786604,46,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.81,45.03840882875552,46,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.82,44.544840950333885,45,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.83,44.05934222099374,45,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.84,43.581737701998456,44,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.85,43.11185716987172,44,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.86,42.649534964702845,43,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.87,42.19460984411506,43,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.88,41.74692484265674,42,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.89,41.306327136386436,42,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.9,40.87266791243379,41,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.91,40.4458022433283,41,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.92,40.02558896589789,41,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.93,39.611890564548304,40,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.94,39.20457305874322,40,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.95,38.80350589451308,39,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.96,38.408561839828714,39,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.97,38.019616883683156,39,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.98,37.63655013873227,38,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,1.99,37.25924374735132,38,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.0,36.88758279097149,37,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.01,36.52145520256578,37,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.02,36.160751682160075,37,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.03,35.80536561525056,36,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.04,35.45519299401335,36,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.05,35.11013234119833,36,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.06,34.770084636602405,35,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.07,34.434953246023476,35,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.08,34.10464385259938,35,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.09,33.77906439044115,34,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.1,33.45812498047301,34,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.11,33.141737868396035,34,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.12,32.82981736469517,33,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.13,32.522279786613325,33,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.14,32.21904340201895,33,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.15,31.920028375097022,32,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.16,31.62515671379586,32,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.17,31.334352218965357,32,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.18,31.04754043512456,32,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.19,30.76464860279935,31,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.2,30.48560561237313,31,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.21,30.210341959395993,31,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.22,29.938789701299804,30,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.23,29.670882415469038,30,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.24,29.40655515861885,30,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.25,29.145744427434266,30,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.26,28.888388120425642,29,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.27,28.634425500957903,29,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.28,28.383797161412357,29,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.29,28.13644498844148,29,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.3,27.892312129279016,28,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.31,27.651342959068604,28,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.32,27.4134830491762,28,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.33,27.178679136452313,28,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.34,26.946879093411862,27,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.35,26.718031899300307,27,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.36,26.4920876120163,27,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.37,26.26899734086168,27,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.38,26.048713220091447,27,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.39,25.831188383236633,26,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.4,25.61637693817465,26,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.41,25.40423394292212,26,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.42,25.194715382126557,26,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.43,24.987778144233765,25,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.44,24.783379999308984,25,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.45,24.58147957749037,25,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.46,24.382036348054395,25,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.47,24.18501059907324,25,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.48,23.99036341764535,24,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.49,23.798056670680467,24,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.5,23.608052986221754,24,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.51,23.420315735287694,24,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.52,23.234809014217365,24,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.53,23.05149762750332,24,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.54,22.870347071096468,23,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.55,22.69132351616855,23,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.56,22.51439379331756,23,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.57,22.339525377202683,23,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.58,22.16668637159515,23,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.59,21.995845494832515,22,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.6,21.826972065663604,22,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.61,21.660035989472554,22,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.62,21.495007744870048,22,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.63,21.33185837064089,22,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.64,21.170559453036898,22,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.65,21.011083113404908,22,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.66,20.853401996139684,21,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.67,20.69748925695212,21,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.68,20.543318551443242,21,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.69,20.390864023975066,21,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.7,20.24010029682935,21,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.71,20.09100245964597,21,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.72,19.943546059132508,20,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.73,19.797707089037285,20,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.74,19.65346198037801,20,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.75,19.510787591918806,20,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.76,19.369661200888206,20,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.77,19.230060493931365,20,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.78,19.091963558289684,20,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.79,18.955348873201263,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.8,18.82019530151607,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.81,18.68648208151948,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.82,18.55418881895855,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.83,18.42329547926506,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.84,18.293782379969993,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.85,18.165630183303904,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.86,18.03881988897819,19,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.87,17.913332827142003,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.88,17.789150651510173,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.89,17.666255332657173,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.9,17.544629151472765,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.91,17.42425469277476,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.92,17.305114839074637,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.93,17.187192764491837,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.94,17.07047192881276,18,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.95,16.95493607169043,17,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.96,16.840569206981144,17,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.97,16.727355617214336,17,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.98,16.615279848192195,17,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,2.99,16.50432670371539,17,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate
+Both fasting ≥8 h,3.0,16.394481240431773,17,3.06758824661297,0.05,0.8,1.96,0.84,S4_sample_size.csv,4,Authorized S4 formula evaluated at delta; no new variance estimate

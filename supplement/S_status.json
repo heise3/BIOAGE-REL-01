@@ -1,0 +1,56 @@
+{
+  "project": "BIOAGE-REL-01",
+  "supplement": "S1-S5",
+  "label": "写作期预定补充分析",
+  "not_contract_v1_1": true,
+  "v1_0_verdict": "GO",
+  "v1_0_status_read_only": true,
+  "stage": "FINAL",
+  "status": "COMPLETE_WITH_NOT_RUN_COMPONENT",
+  "started_at_utc": "2026-11-03T02:27:24.451875+00:00",
+  "supplement_effects_computed": true,
+  "S5": {
+    "status": "COMPLETED_NO_EXACT_OR_PARENT_IDENTIFIED",
+    "unique_expressions": 8,
+    "database_executions": 16,
+    "records": 1351,
+    "classifications": {
+      "EXACT": 0,
+      "PARENT": 0,
+      "ADJACENT": 655,
+      "NONE": 696
+    },
+    "review": "Title/abstract triage of retrieved records; targeted primary full text for direct-overlap candidates; not an exhaustive systematic review"
+  },
+  "terminal": true,
+  "completed_at_utc": "2026-11-03T02:54:58.715278+00:00",
+  "S1": {
+    "status": "COMPUTED; LITERATURE_MEAN_SD_DIFFERENCE_NOT_RUN",
+    "main_N": 1801,
+    "main_deaths": 829,
+    "replication_N": 407,
+    "replication_deaths": 76,
+    "ln_model_N": 15635,
+    "plausibility_local_N": 4672,
+    "reference_difference_reason": "Liu 2018 raw PhenoAge mean/SD not reported in inspected main text or S1 Table"
+  },
+  "S2": {
+    "status": "COMPUTED",
+    "creatinine_between_person_level_attribution": "NOT_IDENTIFIABLE_FROM_PAIR_MEAN_FIX"
+  },
+  "S3": {
+    "status": "COMPUTED",
+    "N_all_repeat_adults": 2160,
+    "N_same_session_codes": 2160
+  },
+  "S4": {
+    "status": "COMPUTED",
+    "scenarios": 5,
+    "rows": 15
+  },
+  "QA": {
+    "numerical_checks_passed": 13,
+    "original_v1_files_unchanged": 38,
+    "original_zip_unchanged": true
+  }
+}
